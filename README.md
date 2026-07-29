@@ -1,0 +1,1 @@
+Emergency Camera is a discrete app, that hides on your phone as an invisible floating button that enables you to send an emergency picture with your localization and contact in case you get trapped in a delicate situation.

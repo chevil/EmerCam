@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Emergency Camera</string>
+    <string name="settings_name">Emergency Camera Settings</string>
+    <string name="emergency">Emergency</string>
+    <string name="boot_received">Boot received</string>
+    <string name="new_outgoing_call">Starting call to : %s</string>
+    <string name="notification_title">You like this app?</string>
+    <string name="notification_message">If you wish more apps like this, support us @ http://giss.tv</string>
+    <string name="cannot_run">The app cannot be started : no draw over apps permission granted.</string>
+    <string name="cannot_proceed">The service cannot be started without proper permissions.</string>
+    <string name="app_not_configured">The service is not configured, cannot proceed.</string>
+    <string name="send_picture">Emergency Camera : sending picture...</string>
+    <string name="emergency_contacts">Emergency Contacts : </string>
+    <string name="contacts_format">Emails list : \ngod@google.com \nevil@facebook.com\n... </string>
+    <string name="alert_reply">Sender (your email) : </string>
+    <string name="alert_phone">Phone number (optional) : </string>
+    <string name="an_email">johndoe@gmail.com</string>
+    <string name="used_cameras">Send Picture From : </string>
+    <string name="flash_mode">Use The Flash :  </string>
+    <string name="save">Save</string>
+    <string name="wrong_email_format">The emergency contacts are not correct emails!</string>
+    <string name="wrong_reply_format">The alert sender is not a correct email!</string>
+    <string name="no_contacts">The emergency contacts is empty!</string>
+    <string name="email_title">[Emergency Camera] This could be a serious problem</string>
+    <string name="email_body">An emergency picture was sent to you from Emergency Camera.\n\nReply to : %s\nTelephone number(s) : %s\nLast Known Location : %s\nTime : %s\nInternal Id : %s\nCheck please the status of this person.\nThank you.\n\nSent from Emergency Camera on Android.\n<a href='http://giss.tv/emercam'>https://giss.tv/emercam</a></string>
+    <string name="default_reply">emercam@giss.tv</string>
+    <string name="uninstall">Uninstall app with a swipe :</string>
+    <string name="ready_to_shoot">[Emergency Camera] Ready to shoot</string>
+    <string name="status_banned">You are banned from using this app for improper use!</string>
+    <string name="status_unknown">Images stored for now as your status is unknown!</string>
+    <string name="are_you_sure">Are You Sure?</string>
+    <string name="save_warning">This screen will now disappear and the app will try to hide, so, please check that all the entered information is correct!\n\nIf you need to change it later, you will have to uninstall and reinstall this app!</string>
+</resources>

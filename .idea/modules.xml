@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/EmerCam.iml" filepath="$PROJECT_DIR$/.idea/modules/EmerCam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/EmerCam.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/EmerCam.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/EmerCam.main.iml" filepath="$PROJECT_DIR$/.idea/modules/EmerCam.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/EmerCam.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/EmerCam.unitTest.iml" />
+    </modules>
+  </component>
+</project>

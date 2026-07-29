@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <resources>
+
+   <string-array name="used_cameras">
+    <item>Back Camera</item>
+    <item>Front Camera</item>
+    <item>All Cameras</item>
+   </string-array>
+
+   <string-array name="flash_modes">
+    <item>Automatic</item>
+    <item>Always</item>
+    <item>Never</item>
+   </string-array>
+
+   <string-array name="no_yes">
+    <item>No</item>
+    <item>Yes</item>
+   </string-array>
+
+</resources>
+

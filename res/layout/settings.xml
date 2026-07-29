@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="#f26868"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="10dp"
+    >
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="10dp"
+    >
+
+    <TextView
+        android:id="@+id/tcontacts"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/emergency_contacts"
+        android:textSize="24dp"
+        android:textColor="@color/white"
+    />
+
+    <ImageView
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:src="@drawable/mandatory"
+        android:layout_alignParentRight="true"
+    />
+
+    </RelativeLayout>
+
+    <EditText
+        android:id="@+id/econtacts"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="top"
+        android:layout_gravity="top"
+        android:singleLine="false"
+        android:lines="10"
+        android:background="@color/white"
+        android:textSize="20dp"
+        android:text=""
+        android:hint="@string/contacts_format"
+    />
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="10dp"
+    >
+
+    <TextView
+        android:id="@+id/treply"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/alert_reply"
+        android:textSize="24dp"
+        android:textColor="@color/white"
+    />
+
+    <ImageView
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:src="@drawable/mandatory"
+        android:layout_alignParentRight="true"
+    />
+
+    </RelativeLayout>
+
+    <EditText
+        android:id="@+id/reply"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="top"
+        android:layout_gravity="top"
+        android:singleLine="true"
+        android:background="@color/white"
+        android:textSize="20dp"
+        android:inputType="text"
+        android:text=""
+        android:textColorHint="#aaaaaa"
+        android:hint=""
+    />
+
+    <TextView
+        android:id="@+id/tphone"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/alert_phone"
+        android:textSize="24dp"
+        android:textColor="@color/white"
+    />
+
+    <EditText
+        android:id="@+id/phone"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="top"
+        android:layout_gravity="top"
+        android:singleLine="true"
+        android:background="@color/white"
+        android:textSize="20dp"
+        android:inputType="text"
+        android:text=""
+        android:textColorHint="#aaaaaa"
+        android:hint=""
+    />
+
+    <TextView
+        android:id="@+id/tcameras"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/used_cameras"
+        android:textSize="24dp"
+        android:textColor="@color/white"
+    />
+
+    <Spinner android:id="@+id/cameras"
+        android:layout_gravity="center|center_horizontal"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:spinnerMode="dropdown"
+        android:layout_width="fill_parent" />
+
+    <TextView
+        android:id="@+id/tflash"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/flash_mode"
+        android:textSize="24dp"
+        android:textColor="@color/white"
+    />
+
+    <Spinner android:id="@+id/flash_modes"
+        android:layout_gravity="center|center_horizontal"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:spinnerMode="dropdown"
+        android:layout_width="fill_parent" />
+
+    <TextView
+        android:id="@+id/tuninstall"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/uninstall"
+        android:textSize="24dp"
+        android:textColor="@color/white"
+    />
+
+    <Spinner android:id="@+id/uninstall"
+        android:layout_gravity="center|center_horizontal"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:spinnerMode="dropdown"
+        android:layout_width="fill_parent" />
+
+    <Button
+        android:id="@+id/save"
+        android:layout_gravity="center|center_vertical"
+        android:background="@drawable/bluebutton"
+        android:textSize="24dp"
+        android:padding="2px"
+        android:text="@string/save"
+        android:layout_height="50dp"
+        android:layout_marginTop="20dp"
+        android:layout_width="180dp"
+        android:gravity="center"
+    />
+
+    </LinearLayout>
+
+</ScrollView>
+
+
+
