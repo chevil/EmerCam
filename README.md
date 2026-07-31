@@ -6,6 +6,34 @@ Emergency Camera is a discrete app, that hides on your phone as an invisible flo
 
 ![Contacts Screen](ss/emercam-1.jpg)
 
+  * Confirm warning / no coming back :
+
+![Confirm Contacts Screen](ss/emercam-2.jpg)
+
+  * Allow app to display over other apps :
+
+![Allow Display Over Screen](ss/emercam-3.jpg)
+
+  * Allow app to access your location :
+
+![Allow Display Over Screen](ss/emercam-4.jpg)
+
+  * Allow app to take photos and record audio :
+
+![Allow Record Screen](ss/emercam-5.jpg)
+
+  * Allow app to access media :
+
+![Allow Media Screen](ss/emercam-6.jpg)
+
+  * You're set! See the hidden button :
+
+![Hidden Button Screen](ss/emercam-7.jpg)
+
+  * Click once : button appears, Click twice : photo is taken and emergency message is sent :
+
+![Photo Shoot Screen](ss/emercam-8.jpg)
+
     concept and programming : chevil@giss.tv
 
 LICENSE !important
