@@ -40,8 +40,8 @@ android {
         applicationId "tv.giss.emercam"
         minSdkVersion 23
         targetSdkVersion 37
-        versionCode = 30
-        versionName = "3.0"
+        versionCode = 29
+        versionName = "2.9"
         multiDexEnabled true
     }
 
