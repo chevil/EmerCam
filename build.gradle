@@ -27,16 +27,6 @@ dependencies {
     implementation 'androidx.legacy:legacy-support-v4:1.0.0'
     implementation 'com.squareup.okhttp3:okhttp:4.2.2'
     implementation 'com.google.android.material:material:1.3.0-alpha02'
-    implementation 'com.google.android.gms:play-services-location:20.0.0'
-    implementation 'com.google.android.gms:play-services-tasks:18.0.1'
-    // do not use this in your code, but necessary for the (old) smtp mailer
-    // implementation 'org.apache.httpcomponents:httpclient:4.5.13'
-    // implementation 'org.apache.httpcomponents:httpcore:4.4.14'
-    // implementation 'com.sun.mail:javax.mail:1.6.1'
-    // implementation 'com.sun.mail:android-activation:1.6.7'
-    // migrate to jakarta mail
-    // implementation 'jakarta.mail:jakarta.mail-api:2.1.3'
-    // implementation 'org.eclipse.angus:angus-mail:2.0.3'
     implementation 'com.sun.mail:jakarta.mail:2.0.1'
     implementation fileTree(include: ['*.jar'], dir: 'libs')
 }
