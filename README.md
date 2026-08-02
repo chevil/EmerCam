@@ -36,6 +36,10 @@ Emergency Camera is a discrete app, that hides on your phone as an invisible flo
 
     concept and programming : chevil@giss.tv
 
+If you appreciate our developments and find this app useful,
+we would appreciate that you would support our work
+with a donation to [GISS.tv](http://giss.tv).
+
 LICENSE !important
 
 This piece of software is published under the terms of HIPPOCRATIC license that fosters the ethical use of tools in this age of digital surveillance :
