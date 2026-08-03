@@ -5,7 +5,7 @@
     <string name="emergency">Emergency</string>
     <string name="boot_received">Boot received</string>
     <string name="notification_title">You like this app?</string>
-    <string name="notification_message">If you wish more apps like this, support us @ http://giss.tv</string>
+    <string name="notification_message">Support us @ http://giss.tv</string>
     <string name="cannot_run">The app cannot be started : no draw over apps permission granted.</string>
     <string name="cannot_proceed">The service cannot be started without proper permissions.</string>
     <string name="app_not_configured">The service is not configured, cannot proceed.</string>
