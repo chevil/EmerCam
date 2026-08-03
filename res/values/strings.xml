@@ -4,7 +4,6 @@
     <string name="settings_name">Emergency Camera Settings</string>
     <string name="emergency">Emergency</string>
     <string name="boot_received">Boot received</string>
-    <string name="new_outgoing_call">Starting call to : %s</string>
     <string name="notification_title">You like this app?</string>
     <string name="notification_message">If you wish more apps like this, support us @ http://giss.tv</string>
     <string name="cannot_run">The app cannot be started : no draw over apps permission granted.</string>
